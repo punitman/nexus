@@ -12,7 +12,7 @@ public class NexusApplicationTests {
 
     @Test
     public void contextLoads() {
-        Assert.assertNotNull(null);
+        Assert.assertNotNull("Test");
     }
 
 }
